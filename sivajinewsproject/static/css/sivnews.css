@@ -1,0 +1,35 @@
+.jumbotron{
+  margin-top: 200px;
+  background: red;
+  color: white;
+}
+h1{
+  text-align: center;
+  background: orange;
+  color:blue;
+}
+ul{
+  font-size: 30px;
+  color: white;
+}
+
+body{
+  background: url(https://images.unsplash.com/photo-1613072473431-26027b609d50?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0Nnx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  width: 20%;
+  height:250px;
+  border: 10px solid yellow;
+  margin: 10px;
+}
+h2{
+  text-align: left;
+  background: #2f4ec2;
+  color:black;
+}
+p{
+  background: white;
+  color: black;
+}
